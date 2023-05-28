@@ -1,0 +1,4 @@
+build --color=yes
+
+# .bazelversion
+echo "6.1.1" > .bazelversion
